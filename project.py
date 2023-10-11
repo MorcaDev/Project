@@ -13,3 +13,7 @@ class Human():
 
     def weeding(self):
         print(f'My name is {self.name} {self.last_name} , I am {self.age} years old')
+
+#object
+me = Human(name,last_name,age)
+me.weeding()
