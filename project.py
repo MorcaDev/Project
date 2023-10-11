@@ -17,3 +17,8 @@ class Human():
 #object
 me = Human(name,last_name,age)
 me.weeding()
+
+# changing properties
+me.name = "JOSE FRANCISCO"
+me.last_name = "MORALES CAQUI"
+me.weeding()
