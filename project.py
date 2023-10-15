@@ -14,7 +14,8 @@ class Human():
     def weeding(self):
         print(f'My name is {self.name} {self.last_name} , I am {self.age} years old')
 
-#object
+# NUMBER - 01
+# object
 me = Human(name,last_name,age)
 me.weeding()
 
@@ -22,3 +23,8 @@ me.weeding()
 me.name = "JOSE FRANCISCO"
 me.last_name = "MORALES CAQUI"
 me.weeding()
+
+# NUMBER - 02
+# object
+wife = Human("dayana","dionicio",22)
+wife.weeding()
