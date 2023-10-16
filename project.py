@@ -32,4 +32,4 @@ wife.weeding()
 # changing properties
 wife.name = "Dayana Pastora"
 wife.last_name = "De Morales"
-wife.weeding)
+wife.weeding()
