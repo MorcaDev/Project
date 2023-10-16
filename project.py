@@ -28,3 +28,8 @@ me.weeding()
 # object
 wife = Human("dayana","dionicio",22)
 wife.weeding()
+
+# changing properties
+wife.name = "Dayana Pastora"
+wife.last_name = "De Morales"
+wife.weeding)
