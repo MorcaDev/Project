@@ -33,3 +33,8 @@ wife.weeding()
 wife.name = "Dayana Pastora"
 wife.last_name = "De Morales"
 wife.weeding()
+
+# NUMBER - 03
+# object
+son = Human("flash","morales dionicio",5)
+son.weeding()
