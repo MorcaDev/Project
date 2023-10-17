@@ -38,3 +38,8 @@ wife.weeding()
 # object
 son = Human("flash","morales dionicio",5)
 son.weeding()
+
+#changing properties
+son.name = "FLASH"
+son.lat_name = "MORALES DIONICIO"
+son.weeding()
