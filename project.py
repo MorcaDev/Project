@@ -45,3 +45,6 @@ son.lat_name = "MORALES DIONICIO"
 son.weeding()
 
 #simple change
+
+# basic code
+print("Hello world")
