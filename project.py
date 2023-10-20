@@ -48,3 +48,6 @@ son.weeding()
 
 # basic code
 print("Hello world")
+
+# basic code 2
+print("Another hello wordl")
